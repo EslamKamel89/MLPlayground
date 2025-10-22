@@ -1,0 +1,13 @@
+order_id,date,customer,category,qty,unit_price,revenue
+36,2025-10-08,Carol,Grocery,3,99,297
+45,2025-10-08,Alice,Books,3,110,330
+56,2025-10-08,Alice,Books,3,121,363
+1,2025-10-09,Eve,Books,1,47,47
+7,2025-10-09,Alice,Grocery,4,40,160
+10,2025-10-09,Dave,Grocery,1,17,17
+18,2025-10-09,Bob,Grocery,1,90,90
+33,2025-10-09,Dave,Books,1,41,41
+9,2025-10-10,Bob,Grocery,4,41,164
+23,2025-10-10,Eve,Electronics,2,76,152
+41,2025-10-10,Alice,Grocery,2,79,158
+52,2025-10-10,Carol,Books,2,10,20
